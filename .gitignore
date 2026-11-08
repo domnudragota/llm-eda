@@ -1,0 +1,15 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+
+# Local files
+.env
+.vscode/
