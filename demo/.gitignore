@@ -1,0 +1,9 @@
+.venv/
+.venv-demo/
+env/
+.idea/
+data/reference/nltk_data/
+__pycache__/
+.streamlit/
+/lwow/
+output/
